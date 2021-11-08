@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bai 6 Tuan 3</title>
+
+	<Script>
+			//made by Nguyễn Bá Hà
+		function Xem()  {
+		var txtNgaySinh = document.getElementById('txtNgaySinh');
+		var txtCung = document.getElementById('txtCung');
+		if (txtNgaySinh.value == '') 
+		{
+            alert('Hãy nhập đủ thông tin !');
+            txtNgaySinh.focus();
+		}
+		else
+		{
+			var datetxtNS = new Date(txtNgaySinh.value);
+			var dayNgaySinh = datetxtNS.getDate();
+			var monthNgaySinh = datetxtNS.getMonth()+1;
+			var yearNgaySinh = datetxtNS.getYear();
+
+            txtCung.value = check(dayNgaySinh,monthNgaySinh,yearNgaySinh);
+		}
+	}
+	function check(dayNgaySinh,monthNgaySinh,yearNgaySinh){
+		switch (monthNgaySinh){
+			case 1:
+				if (dayNgaySinh >= 20)
+					return "Bảo Bình";
+				else 
+					return "Ma Kết";
+				break;
+			case 2:
+				if(dayNgaySinh === 29)
+				{
+					if(yearNgaySinh % 4 === 0 && yearNgaySinh % 100 !== 0)
+						return "Song Ngư";
+					else //return "Ngay này không tồn tại";
+					{
+						alert('ngay nhap bi sai');
+						break;
+					}
+				}
+				else if(dayNgaySinh >= 19  )
+					return "Song Ngư";
+				else
+					return "Bảo Bình";
+				break;
+			case 3:
+				if(dayNgaySinh >= 21 )
+					return "Bạch Dương";
+				else 
+					return "Song Ngư";
+				break;
+			case 4:
+				if(dayNgaySinh >= 21)
+					return "Kim Ngưu";
+				else 
+					return "Bạch Dương";
+				break;
+			case 5:
+				if(dayNgaySinh >= 21)
+					return "Song Tử";
+				else
+					return "Kim Ngưu";
+				break;
+			case 6:
+				if(dayNgaySinh >= 22)
+					return "Cự Giải";
+				else
+					return "Song Tử";
+				break;
+			case 7:
+				if(dayNgaySinh >= 23)
+					return "Cự Giải";
+				else
+					return "Sư Tử";
+				break;
+			case 8:
+				if(dayNgaySinh >= 23)
+					return "Sư Tử";
+				else
+					return "Cự Giải";
+				break;
+			case 9:
+				if(dayNgaySinh >= 23)
+					return "Thiên Bình";
+				else 
+					return "Xử Nữ";
+				break;
+			case 10:
+				if(dayNgaySinh >= 24)
+					return "Bọ Cạp";
+				else 
+					return "Thiên Bình";
+				break;
+			case 11:
+				if(dayNgaySinh >= 23)
+					return "Nhân Mã";
+				else
+					return "Bọ Cạp";
+				break;
+			case 12:
+				if(dayNgaySinh >= 22)
+					return "Nhân Mã";
+				else 
+					return "Ma Kết";
+				break;
+		}
+		
+}
+	function Xoa () {
+		txtNgaySinh.value = '';
+		txtCung.value = '';
+	}
+	</Script>
+</head>
+<body>
+         <fieldset style="width: 300px;margin: 0 auto;margin-top: 150px;" >
+         	<table>
+         		<tr>
+         			<td>Ngày sinh </td>
+         			<td><input type="date" name="" id="txtNgaySinh"></td>
+         		</tr>
+         		<tr>
+         			<td>Cung</td>
+         			<td><input type="text" name="" id="txtCung" readonly="true"></td>
+         		</tr>
+         		<tr>
+         			<td></td>
+         			<td style="float: right; ">
+         				<span><input type="submit" name="" id="btnXem" value="Xem" onclick="Xem()"></span>
+         				<span><input type="submit" name="" id="btnXoa" value="Xóa" onclick="Xoa()"></span>
+         			</td>
+         		</tr>
+         	</table>
+         </fieldset>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Bai7-NguyenBaHa</title>
+    <link rel="stylesheet" href="bai7.css">
+    <script src="bai7.js"></script>
+</head>
+<body>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <form action="" method="get" id="form">
+        <label for="ddlDanhSachHangSX">Danh sách hàng sản xuất CPU</label>
+        <select name="" id="danhsach">
+            <option value="intel"> Intel </option>
+        </select>
+        <div class="inputform" id="inputform">
+            <label for="txtHang">Hãng</label>
+            <input type="text" id="data">    
+        </div>
+        <div class="btn">
+            <input type="button" onclick="huy()" id="btnhuy" value="Hủy" > 
+            <input type="button" id="btnThem" onclick="changeText('btnLuu','btnThem')" value="Thêm">  
+            <input type="button" name="luu" onclick="changeText('btnThem','btnLuu')"  id="btnLuu" value="Lưu">
+            
+        </div>
+    </form>
+</body>
+</html>

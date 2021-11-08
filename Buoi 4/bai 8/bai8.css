@@ -1,0 +1,49 @@
+body
+{
+  margin: 0 auto;
+  padding: 0;
+  background: mintcream;
+}
+*
+{
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+/* content */
+table
+{
+  width: 50%;
+  margin: 0 25%;
+  background: lightgreen;
+  font-size: 25px;
+}
+table ,tr > th, td
+{
+  border: 1px solid black;
+}
+
+form
+{
+  border: 1px solid black;
+  width: 20%;
+  overflow: auto;
+  margin: 0 40%;
+  padding: 5px;
+  margin-bottom: 15px;
+  background: lightgray;
+  
+}
+form .fInput
+{
+  float: right;
+}
+form .flabel
+{
+  float: left;
+}
+.button
+{
+  float: right;
+}

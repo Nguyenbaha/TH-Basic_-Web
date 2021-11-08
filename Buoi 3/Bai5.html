@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bài 5 Tuần 3</title>
+  <Script>
+                  // made by Nguyễn Bá Hà
+    function ThucHien() {
+
+      var txtChuoi = document.getElementById("txtChuoi");
+      var ddlDanhSach = document.getElementById("ddlDanhSach");
+      if (txtChuoi.value != "") {
+
+
+        var mang = txtChuoi.value.split(",");
+        ddlDanhSach.innerHTML = '';
+
+        if (kiemTra(mang)) {
+          for (var i = 0; i < mang.length; i++) {
+            var aa = document.createElement("option");
+            aa.text = mang[i];
+            aa.value = mang[i];
+
+            ddlDanhSach.appendChild(aa);
+          }
+        }
+        else {
+          alert('Giá trị bị trùng . Hãy nhập lại ! ');
+        }
+      }
+      else {
+        alert("Hãy nhập đủ thông tin");
+        txtChuoi.focus();
+      }
+    }
+
+            /* độ phức tạp của hàm kiemTra này là O(n^2)
+            cách tối ưu hơn là tìm kiếm nhị phân nhưng do dữ liệu ít
+            nên em dùng cách này thuận tiện hơn */
+    function kiemTra(ddlDanhSach) {
+      for (var i = 0; i < ddlDanhSach.length - 1; i++) {
+        for (var j = i + 1; j < ddlDanhSach.length; j++) {
+          if (ddlDanhSach[i].trim() == ddlDanhSach[j].trim()) {
+            return false;
+          }
+        }
+
+      return true;
+    }
+
+    function ThayDoi() {
+      var ddlDanhSach = document.getElementById("ddlDanhSach");
+      alert("Bạn đã chọn mục: " + ddlDanhSach.value);
+    }
+
+
+    function Huy() {
+      var txtChuoi = document.getElementById("txtChuoi");
+      txtChuoi.value = "";
+    }
+  </Script>
+</head>
+
+<body>
+  <fieldset id="Container" style="width: 300px ; margin: 0 auto;margin-top: 150px">
+    <form>
+      <table>
+        <tr>
+          <td>Chuỗi </td>
+          <td><input type="textbox" name="" id="txtChuoi"></td>
+        </tr>
+        <tr>
+          <td>Danh sách </td>
+          <td><select id='ddlDanhSach' onchange="ThayDoi()"></select></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td style="text-align: right;">
+            <input type="button" name="" id="btnThucHien" value="Thực hiện" onclick="ThucHien()">
+            <input type="button" name="" id="btnHuy" value="Hủy" onclick="Huy()">
+          </td>
+        </tr>
+      </table>
+    </form>
+  </fieldset>
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+D:\BTTH_Basic_WEB\Buoi 5\WebApplication2\bin\WebApplication2.dll.config
+D:\BTTH_Basic_WEB\Buoi 5\WebApplication2\bin\WebApplication2.dll
+D:\BTTH_Basic_WEB\Buoi 5\WebApplication2\bin\WebApplication2.pdb
+D:\BTTH_Basic_WEB\Buoi 5\WebApplication2\obj\Debug\WebApplication2.dll
+D:\BTTH_Basic_WEB\Buoi 5\WebApplication2\obj\Debug\WebApplication2.pdb
+D:\BTTH_Basic_WEB\Buoi 5\WebApplication2\obj\Debug\Bai9.csprojAssemblyReference.cache
+D:\BTTH_Basic_WEB\Buoi 5\WebApplication2\obj\Debug\Bai9.csproj.CoreCompileInputs.cache

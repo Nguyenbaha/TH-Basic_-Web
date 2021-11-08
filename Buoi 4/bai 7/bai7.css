@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: mintcream;
+}
+#form:after{
+
+    content: "";
+    clear: both;
+    display: table;
+}
+*{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+}
+form
+{
+    border: 1px solid black;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+    background: lightcyan;
+}
+.btn
+{
+    text-align: right;
+    display: block;
+    margin: 15px 15px 15px 15px;
+    padding: 15px 15px 15px 15px;
+}
+.inputform,#btnLuu
+{
+    display: none;
+}
+#btnLuu,#btnThem, #btnhuy
+{
+    float: right;
+    margin-right: 10px;
+}
+#inputform{
+    margin-top: 10px;
+}

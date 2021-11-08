@@ -1,0 +1,66 @@
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\ApplicationInsights.config
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\csc.exe
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\vbc.exe
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Web12.dll.config
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Web12.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Web12.pdb
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.AI.Web.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.AI.Web.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\obj\Debug\Web12.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\obj\Debug\Web12.pdb
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Web12\obj\Debug\Web12.csprojResolveAssemblyReference.cache
+D:\thuchanh\THLTW\Tuan6\Web12\bin\ApplicationInsights.config
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\csc.exe
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\System.Collections.Immutable.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\System.Reflection.Metadata.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\vbc.exe
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\VBCSCompiler.exe
+D:\thuchanh\THLTW\Tuan6\Web12\bin\roslyn\VBCSCompiler.exe.config
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Web12.dll.config
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Web12.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Web12.pdb
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.AI.Agent.Intercept.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.AI.DependencyCollector.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.AI.Web.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.AI.WindowsServer.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.ApplicationInsights.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.AI.DependencyCollector.xml
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.AI.Web.xml
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.AI.WindowsServer.xml
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.ApplicationInsights.xml
+D:\thuchanh\THLTW\Tuan6\Web12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\thuchanh\THLTW\Tuan6\Web12\obj\Debug\Web12.csprojResolveAssemblyReference.cache
+D:\thuchanh\THLTW\Tuan6\Web12\obj\Debug\Web12.dll
+D:\thuchanh\THLTW\Tuan6\Web12\obj\Debug\Web12.pdb

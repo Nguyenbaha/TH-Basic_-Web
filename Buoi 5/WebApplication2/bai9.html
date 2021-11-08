@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <style type="text/css">
+        #ha {
+            margin: 2em auto;
+            padding: 10px;
+            width: 300px;
+            border: 1px solid;
+            background-color: lightcyan;
+        }
+
+        #hi {
+            background-color: mintcream;
+        }
+    </style>
+    <script>
+        function checkInput(a) {
+            var x;
+            x = document.getElementById(a).value;
+
+            if (x === "") {
+                return 0;
+            }
+            if (a === "txtNgayRaMat") {
+                datenow = new Date();
+                dateimport = new Date(x);
+                if (datenow.getTime() < dateimport.getTime()) {
+                    return 0;
+                } else
+                    return 1;
+
+            }
+            if (a === "txtGia") {
+                if (x < 0) {
+                    return 0;
+                } else {
+                    return 1;
+                }
+            }
+            return 1;
+        }
+        var err = "";
+        var ten, hang, date, gia, ar;
+        var ar = [];
+        var check = [];
+        var mau = [];
+        var br = ['Tên VKL', 'Hãng', 'Ngày ra mắt', 'Giá'];
+        function checkForm() {
+            ten = document.getElementById("txtTenVXL");
+            hang = document.getElementById("txtHang");
+            date = document.getElementById("txtNgayRaMat");
+            gia = document.getElementById("txtGia");
+            ar = [ten.id, hang.id, date.id, gia.id];
+
+            for (var i = 0; i < 4; i++) {
+                if (checkInput(ar[i]) === 0) {
+                    alert('Bạn chưa nhập hoặc nhập sai kiểu dữ liệu ô: ' + br[i]);
+                    document.getElementById(ar[i]).focus();
+                    return false;
+                }
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <div>
+        <div>
+            <form method="POST" action="Xuly.aspx" style="width:350px" onsubmit="return checkForm();" id="ha">
+                <fieldset>
+                    <div style="padding-left:15px; padding-right:37px" id="hi">
+                        <label for="txtTenVXL" style="margin-right:27px">Tên VXL</label>
+                        <input type="text" class="fInput" id="txtTenVXL" name="txtTenVXL">
+                        <br>
+                        <br>
+                        <label for="txtHang" style="margin-right:53px">Hãng</label>
+                        <input type="text" class="fInput" id="txtHang" name="txtHang">
+                        <br>
+                        <br>
+                        <label for="txtNgayRaMat" style="margin-right:10px">Ngày ra mắt</label>
+                        <input type="date" class="fInput" id="txtNgayRaMat" name="txtNgayRaMat" style="width:167px">
+                        <br>
+                        <br>
+                        <label for="txtGia" style="margin-right:65px">Giá</label>
+                        <input type="number" class="fInput" id="txtGia" name="txtGia">
+                        <br>
+                        <br>
+                        <div class="button">
+                            <input type="reset" value="hủy" style="float:right">
+                            <input type="submit" value="Thêm" style="float: right; margin-right: 10px">
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Bai8-NguyenBaHa</title>
+    <link rel="stylesheet" href="bai8.css">
+    <script src="bai8.js">
+</script>
+</head>
+
+<body>
+    <form action="" id="form">
+        <br>
+        <label class="flabel" for="txtTenVXL">Tên VXL</label>
+        <input type="text" class="fInput" id="txtTenVXL">
+        <br>
+        <br>
+        <label class="flabel" for="txtHang">Hãng</label>
+        <input type="text" class="fInput" id="txtHang">
+        <br>
+        <br>
+        <label class="flabel" for="txtNgayRaMat">Ngày ra mắt</label>
+        <input type="text" class="fInput" id="txtNgayRaMat">
+        <br>
+        <br>
+        <label class="flabel" for="txtGia">Giá</label>
+        <input type="text" class="fInput" id="txtGia">
+        <br>
+        <br>
+        <div class="button">
+            <input type="button" value="Thêm" onclick="btnThem()">
+            <input type="reset" value="Hủy" onclick="btnXoa()" >
+            </div>
+    </form>
+    <table id="tbl">
+        <tr>
+            <th>STT</th>
+            <th>Tên VXL</th>
+            <th>Hãng sx</th>
+            <th>Ngày ra mắt</th>
+            <th>Giá(VNĐ)</th>
+        </tr>
+    </table>
+</body>
+</html>

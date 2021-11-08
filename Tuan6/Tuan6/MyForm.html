@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <style>
+        form {
+            margin: auto;
+            background:lightcyan;
+        }
+    </style>
+</head>
+
+
+<body>
+    <form method="post" action="Xuly.aspx" style="width:350px" onsubmit="return checkForm();">
+        <fieldset>
+            <div >
+                <label> Họ và tên</label>
+                <input type="text" id="name"  name="name" placeholder="Họ và tên" />
+                <br>
+                <br>
+                <label>Giới tính</label>
+                <input type="radio" name="gender" id="gender" value="Nam" />Nam
+                <input type="radio" name="gender" id="gender" value="Nữ" />Nữ
+                <br>
+                <br>
+                <label>Ngày sinh</label>
+                <input type="date" name="dob" id="dob" />
+                <br>
+                <br>
+                <label>Email</label>
+                <input type="email" name="email" id="email" />
+                <br>
+                <br>
+            
+                <label>Số điện thoại</label>
+                <input type="number" name="phone" id="phone" />
+                <br>
+                <br>
+                <label>Địa chỉ</label>
+                <input type="text" name="address" id="address" />
+            
+            <div>
+                <input type="submit" name="submit" id="submit" value="Thêm" />
+                <input type="reset" name="reset" id="reset" value="Đặt lại" />
+            </div>
+                </div>
+        </fieldset>
+    </form>
+    <script>
+        function checkInput(a) {
+            var x;
+            x = document.getElementById(a).value;
+            if (x == "") {
+                return 0;
+            }
+            if (a === "dob") {
+                datenow = new Date();
+                dateimport = new Date(x);
+                if (datenow.getTime() < dateimport.getTime()) {
+                    return 0;
+                } else
+                    return 1;
+
+            }
+            if (a === "phone") {
+                if (x.length >9 && x.length <12) {
+                    return 1;
+                } else {
+                    return 0;
+                }
+            }
+            return 1;
+        }
+        var br = ['Họ và tên', 'Giới tính', 'Ngày sinh', 'Email', 'Số điện thoại', 'Địa chỉ'];
+        function checkForm() {
+            var ten = document.getElementById("name");
+            var gender = document.getElementById("gender");
+            var dob = document.getElementById("dob");
+            var email = document.getElementById("email");
+            var phone = document.getElementById("phone");
+            var address = document.getElementById("address");
+
+            ar = [ten.id, gender.id, dob.id, email.id, phone.id, address.id];
+            for (var i = 0; i < 6; i++) {
+                if (checkInput(ar[i]) == 0) { 
+                    alert("Bạn chưa nhập hoặc nhập sai kiểu dữ liệu ô: " + br[i]);
+                    document.getElementById(ar[i]).focus();
+                    return false;
+                }
+            }
+            return true;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <form action="SendMsg.aspx" method="post" onsubmit="return check();">
+        <input type="text" name="message" id="message" />
+        <input type="submit" name="submit" id="submit" />
+    </form>
+    <script>
+        function check()
+        {
+            
+            if(document.getElementById("message").value === "")
+            {
+                document.getElementById("message").focus();
+                return false;
+            }
+            return true;
+        }
+    </script>
+</body>
+</html>

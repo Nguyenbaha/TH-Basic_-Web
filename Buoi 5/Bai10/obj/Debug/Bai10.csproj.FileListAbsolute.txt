@@ -1,0 +1,31 @@
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2013\Projects\Tuan5\Bai10\bin\Bai10.dll.config
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2013\Projects\Tuan5\Bai10\bin\Bai10.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2013\Projects\Tuan5\Bai10\bin\Bai10.pdb
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2013\Projects\Tuan5\Bai10\obj\Debug\Bai10.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2013\Projects\Tuan5\Bai10\obj\Debug\Bai10.pdb
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2013\Projects\Tuan5\Bai10\obj\Debug\Bai10.csprojResolveAssemblyReference.cache
+D:\thuchanh\THLTW\New folder\Tuan5\Bai10\bin\Bai10.dll.config
+D:\thuchanh\THLTW\New folder\Tuan5\Bai10\bin\Bai10.dll
+D:\thuchanh\THLTW\New folder\Tuan5\Bai10\bin\Bai10.pdb
+D:\thuchanh\THLTW\New folder\Tuan5\Bai10\obj\Debug\Bai10.csprojResolveAssemblyReference.cache
+D:\thuchanh\THLTW\New folder\Tuan5\Bai10\obj\Debug\Bai10.dll
+D:\thuchanh\THLTW\New folder\Tuan5\Bai10\obj\Debug\Bai10.pdb
+E:\THLTweb\Tuan5\Bai10\bin\Bai10.dll.config
+E:\THLTweb\Tuan5\Bai10\bin\Bai10.dll
+E:\THLTweb\Tuan5\Bai10\bin\Bai10.pdb
+E:\THLTweb\Tuan5\Bai10\obj\Debug\Bai10.csprojResolveAssemblyReference.cache
+E:\THLTweb\Tuan5\Bai10\obj\Debug\Bai10.dll
+E:\THLTweb\Tuan5\Bai10\obj\Debug\Bai10.pdb
+E:\THLTweb\Tuan5\NguyenThiMaiAnh_Lop17A06_LTW_09.04\Bai10\bin\Bai10.dll.config
+E:\THLTweb\Tuan5\NguyenThiMaiAnh_Lop17A06_LTW_09.04\Bai10\bin\Bai10.dll
+E:\THLTweb\Tuan5\NguyenThiMaiAnh_Lop17A06_LTW_09.04\Bai10\bin\Bai10.pdb
+E:\THLTweb\Tuan5\NguyenThiMaiAnh_Lop17A06_LTW_09.04\Bai10\obj\Debug\Bai10.csprojResolveAssemblyReference.cache
+E:\THLTweb\Tuan5\NguyenThiMaiAnh_Lop17A06_LTW_09.04\Bai10\obj\Debug\Bai10.dll
+E:\THLTweb\Tuan5\NguyenThiMaiAnh_Lop17A06_LTW_09.04\Bai10\obj\Debug\Bai10.pdb
+D:\BTTH_Basic_WEB\Buoi 5\Bai10\bin\Bai10.dll.config
+D:\BTTH_Basic_WEB\Buoi 5\Bai10\bin\Bai10.dll
+D:\BTTH_Basic_WEB\Buoi 5\Bai10\bin\Bai10.pdb
+D:\BTTH_Basic_WEB\Buoi 5\Bai10\obj\Debug\Bai10.dll
+D:\BTTH_Basic_WEB\Buoi 5\Bai10\obj\Debug\Bai10.pdb
+D:\BTTH_Basic_WEB\Buoi 5\Bai10\obj\Debug\Bai10.csprojAssemblyReference.cache
+D:\BTTH_Basic_WEB\Buoi 5\Bai10\obj\Debug\Bai10.csproj.CoreCompileInputs.cache

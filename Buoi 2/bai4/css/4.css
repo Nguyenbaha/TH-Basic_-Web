@@ -1,0 +1,174 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    font-family: Arial;
+    font-weight: bolder;
+}
+.menu{
+    height: 100px;
+   
+}
+.first{
+    height: 30px;
+}
+.second_menu{
+    line-height: 100%;
+    top:30px;
+    left:0;
+    width: 100%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+
+}
+.second_menu > li{
+    position: relative;
+    height: 100%;
+    background: lightgray;
+}
+
+.second_menu > li:hover{
+    background: darkcyan;
+}
+.drop_menu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+.drop_menu> li{
+    width: 20%;
+    position: relative;
+    float: left;
+    background: lightgray;
+}
+.drop_menu >li:hover{background: gray}
+
+.drop_menu li:hover > ul{
+    display: block;
+}
+.drop_menu a{
+    font: bold 14px Aria;
+    color: black;
+    text-decoration: none;
+    padding: 0 0 0 10px;
+    display: block;
+    line-height: 30px;
+}
+.drop_menu a:hover
+{color: black}
+
+
+.content:after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.col-3{
+    width: 25%;
+    float: left;
+}
+.col-3 p{
+    font-weight: bolder;
+}
+.col-3 .search{
+    width: 60%;
+    margin-left: 15px;
+}
+.col-3 .search:hover{
+    background-color: lightgreen;
+}
+.col-9{
+    width: 75%;
+    float: left;
+}
+.img{
+    width: 20%;
+    border: solid 1px black;
+    padding: 10px 10px 10px 10px ;
+    margin-right:10px;
+    float: left;
+    margin-bottom: 5px;
+}
+.img1{
+    width: 100%;
+    
+}
+.logo{
+    height: 40px;
+    background-color: lightcyan;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: bolder;
+
+}
+.footer p{
+    text-align: center;
+    background-color: lightgray;
+    height: 40px;
+    line-height: 40px;
+}
+@media (max-width: 786px)
+{
+    [class*="col-"] {
+        width: 100%;
+    }
+    .img{
+        width: 35%;
+    }
+    .col-3 p{
+        width: 15%;
+        float: left;
+        font-size: 20px;
+
+    }
+    .col-3 .search{
+        margin-top: 17px;
+        float: left;
+        border: solid 1px black;
+        height: 20px;
+    }
+    .col-3 .button{
+        margin-left: 6px;
+        margin-top: 16px;
+        height: 25px;
+        width: 48px;
+    }
+    .menu{
+        height: 100%;
+    }
+    .logo{
+        font-size: 30px;
+        height: 65px;
+        line-height: 65px;
+    }
+    .drop_menu li{
+        float: none;
+        width: 100%;
+
+    }
+    .drop_menu{
+        height: 100%;
+    }
+    .drop_menu li a{
+        width: 100%;
+        text-align: center;
+        font-size: 16px;
+        font-weight: bolder;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .drop_menu li:hover > ul{
+        display: block;
+        
+    }
+    .first{
+        height: 0;
+    }
+
+}

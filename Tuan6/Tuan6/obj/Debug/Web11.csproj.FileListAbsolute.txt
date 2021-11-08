@@ -1,0 +1,135 @@
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\ApplicationInsights.config
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\csc.exe
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\vbc.exe
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Tuan6.dll.config
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Tuan6.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Tuan6.pdb
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.AI.Web.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.AI.Web.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\obj\Debug\Tuan6.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\obj\Debug\Tuan6.pdb
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\Tuan6\Tuan6\obj\Debug\Web11.csprojResolveAssemblyReference.cache
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\ApplicationInsights.config
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\csc.exe
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\System.Collections.Immutable.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\System.Reflection.Metadata.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\vbc.exe
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe.config
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Tuan6.dll.config
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Tuan6.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Tuan6.pdb
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.AI.Agent.Intercept.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.AI.DependencyCollector.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.AI.Web.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.AI.WindowsServer.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.ApplicationInsights.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.AI.DependencyCollector.xml
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.AI.Web.xml
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.AI.WindowsServer.xml
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.ApplicationInsights.xml
+D:\thuchanh\THLTW\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\thuchanh\THLTW\Tuan6\Tuan6\obj\Debug\Web11.csprojResolveAssemblyReference.cache
+D:\thuchanh\THLTW\Tuan6\Tuan6\obj\Debug\Tuan6.dll
+D:\thuchanh\THLTW\Tuan6\Tuan6\obj\Debug\Tuan6.pdb
+E:\THLTweb\Tuan6\Tuan6\obj\Debug\Web11.csprojResolveAssemblyReference.cache
+E:\THLTweb\Tuan6\Tuan6\obj\Debug\Tuan6.dll
+E:\THLTweb\Tuan6\Tuan6\obj\Debug\Tuan6.pdb
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\ApplicationInsights.config
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\csc.exe
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\vbc.exe
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Tuan6.dll.config
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Tuan6.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Tuan6.pdb
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.AI.Web.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.AI.Web.xml
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\obj\Debug\Web11.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\obj\Debug\Tuan6.dll
+C:\Users\Nguyen Ba Ha\Downloads\THLTweb\Tuan6\Tuan6\obj\Debug\Tuan6.pdb
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\ApplicationInsights.config
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\csc.exe
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\System.Collections.Immutable.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\System.Reflection.Metadata.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\vbc.exe
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe.config
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Tuan6.dll.config
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Tuan6.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Tuan6.pdb
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.AI.DependencyCollector.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.AI.Web.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.AI.WindowsServer.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.ApplicationInsights.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.AI.DependencyCollector.xml
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.AI.Web.xml
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.AI.WindowsServer.xml
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.ApplicationInsights.xml
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\obj\Debug\Web11.csprojResolveAssemblyReference.cache
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\obj\Debug\Tuan6.dll
+D:\BTTH_Basic_WEB\Tuan6\Tuan6\obj\Debug\Tuan6.pdb
